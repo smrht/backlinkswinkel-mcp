@@ -3,15 +3,15 @@
   "name": "io.github.backlinkswinkel/backlinks",
   "title": "Backlinkswinkel",
   "description": "Search Dutch websites for backlinks, check metrics and prices, order after confirmation, track.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://backlinkswinkel.nl/",
   "repository": {
-    "url": "https://github.com/smrht/backlinkswinkel-mcp",
+    "url": "https://github.com/backlinkswinkel/backlinkswinkel-mcp",
     "source": "github"
   },
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/smrht/backlinkswinkel-mcp/main/logo-400.png",
+      "src": "https://raw.githubusercontent.com/backlinkswinkel/backlinkswinkel-mcp/main/logo-400.png",
       "mimeType": "image/png",
       "sizes": [
         "400x400"
